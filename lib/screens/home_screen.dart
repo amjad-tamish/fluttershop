@@ -34,7 +34,7 @@ class HomePage extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Welcome to Tamish Flutter Shop!',
+                          'Welcome to Tamish Shop!',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                             fontSize: 16,
