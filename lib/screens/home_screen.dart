@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       drawer: const AppDrawer(),
       appBar: AppBar(
-        title: const Text('Tamish Shop'),
+        title: Center(child: const Text('Tamish Shop')),
         actions: [IconButton(icon: const Icon(Icons.search), onPressed: () {})],
       ),
 
